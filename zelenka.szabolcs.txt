@@ -1,0 +1,6 @@
+1.git clone https://github.com/miklospeter86/9CCsoport
+2.cd 9CCsoport
+3.git config --global user.name szabi1235
+4.git config --global user.email zelenkaszabi3@gmail.com
+5.git add zelenka.szabolcs.txt
+6.git commit -m zelnka.szabolcs.txt

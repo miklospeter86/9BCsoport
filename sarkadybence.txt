@@ -1,0 +1,8 @@
+1. git clone repository_elérése
+2. Belépsz a mappába, amit klónoztál (mappa váltása: cd)
+3. Új állomány létrehozása a mappában
+4. git config --global user.name felhasználónév
+5. git config --global user.email emailcím
+6. git add
+7. git commit
+8. git push

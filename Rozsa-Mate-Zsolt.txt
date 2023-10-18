@@ -1,9 +1,7 @@
-BadAtTheGame was here :3
-
 1. Reporistory létrehozása (ha még nincsen)
-2. Jogosultságot adsz a másiknak (repository beállításainál, collaborators)
+2. Jogosultságot adsz a másiknak 
 3. git clone repository_elérése
-4. Belépsz a mappába, amit klónoztál (mappa váltása: cd)
+4. Belépsz a mappába, amit klónoztál 
 5. Új állomány létrehozása a mappában
 6. git config --global user.name felhasználónév
 7. git config --global user.email emailcím

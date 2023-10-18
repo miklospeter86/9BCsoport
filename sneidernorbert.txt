@@ -1,7 +1,0 @@
-1.Belépek a mappába, amit klónoztam és mappát váltottam a cd-vel
-2. ÚLétrehoztam egy új állomáynt
-3. git config --global user.name felhasználónév
-4. git config --global user.email emailcím
-5. git add
-6. git commit
-7. git push

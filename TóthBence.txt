@@ -1,5 +1,3 @@
-BadAtTheGame was here :3
-
 1. Reporistory létrehozása (ha még nincsen)
 2. Jogosultságot adsz a másiknak (repository beállításainál, collaborators)
 3. git clone repository_elérése
